@@ -19,17 +19,17 @@ Supported Algorithms:
 
 2. Add Process Manually:
 
-  Users can manually add individual processes by clicking an "Add Process" button in the GUI.
+    Users can manually add individual processes by clicking an "Add Process" button in the GUI.
 
 3. Load Processes from a Python File:
 
-  Users have the option to load multiple processes from a Python file.
+    Users have the option to load multiple processes from a Python file.
 
 4. File Requirements:
 
-  The file for loading processes (e.g., processes.py) should:
-  Run each process.
-  Track and store the execution times for each process in a dictionary.
-  Return this dictionary of execution times.
+    The file for loading processes (e.g., processes.py) should:
+    Run each process.
+    Track and store the execution times for each process in a dictionary.
+    Return this dictionary of execution times.
 
 A sample Python file named processes.py is provided in the repository to demonstrate the expected format and functionality.
